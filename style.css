@@ -59,7 +59,7 @@ section {
   line-height: 2em; /* Vai dar um espacamento entre as linhas */
   padding-left: 30px; /* Vai dar 30px de espacamento na esquerda */
   font-family: var(--fonte003); 
-  font-size: 3.5vw;  /* 3.5% da largura da tela */
+  font-size: 3.5vw;  /* 3.5% da largura da tela (torna meio responsivo) */
   /*font-size: 2em;  2x o tamanho original */
 }
 
